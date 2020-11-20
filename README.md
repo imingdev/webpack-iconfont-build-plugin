@@ -10,7 +10,7 @@ npm i webpack-iconfont-build-plugin -D
 
 在 Iconfont 上找到你项目的 CSS 地址
 
-![image](https://raw.githubusercontent.com/imingdev/webpack-iconfont-build-plugin/snapshoot/images_1.png)
+![image](https://raw.githubusercontent.com/imingdev/webpack-iconfont-build-plugin/master/snapshoot/image_1.png)
 
 然后将插件加入到 `webpack.config.js` 中
 
@@ -32,4 +32,4 @@ module.exports = {
 <i class="icon-zhifubao" />
 ```
 ##### 作者想喝杯咖啡
-![image](https://raw.githubusercontent.com/imingdev/webpack-iconfont-build-plugin/snapshoot/images_1.jpg)
+![image](https://raw.githubusercontent.com/imingdev/webpack-iconfont-build-plugin/master/snapshoot/images_2.jpg)

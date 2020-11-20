@@ -1,0 +1,20 @@
+{
+  "name": "webpack-iconfont-build-plugin",
+  "version": "1.0.0",
+  "description": "通过webpack快速打包Iconfont字体图标",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imingdev/webpack-iconfont-build-plugin.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imingdev/webpack-iconfont-build-plugin/issues"
+  },
+  "homepage": "https://github.com/imingdev/webpack-iconfont-build-plugin#readme"
+}
